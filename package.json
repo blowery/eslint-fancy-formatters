@@ -1,0 +1,23 @@
+{
+  "name": "eslint-fancy-formatters",
+  "version": "1.0.0",
+  "description": "A collection of fancy formatters for eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blowery/eslint-fancy-formatters.git"
+  },
+  "keywords": [
+    "eslint",
+    "formatter"
+  ],
+  "author": "Ben Lowery <ben@blowery.org> (http://b19y.com)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/blowery/eslint-fancy-formatters/issues"
+  },
+  "homepage": "https://github.com/blowery/eslint-fancy-formatters#readme"
+}
