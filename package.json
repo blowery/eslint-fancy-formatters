@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/blowery/eslint-fancy-formatters/issues"
   },
-  "homepage": "https://github.com/blowery/eslint-fancy-formatters#readme"
+  "homepage": "https://github.com/blowery/eslint-fancy-formatters#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
 }
